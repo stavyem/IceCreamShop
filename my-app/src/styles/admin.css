@@ -1,0 +1,116 @@
+/* Admin Panel */
+.admin-panel {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.admin-panel h1, .admin-panel h2 {
+  text-align: center;
+  color: #333;
+}
+
+.admin-panel input,
+.admin-panel textarea,
+.admin-panel button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.admin-panel button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.admin-panel button:hover {
+  background-color: #45a049;
+}
+
+/* Product List */
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); /* Smaller cards */
+  gap: 15px;
+  margin-top: 30px;
+}
+
+.product {
+  background-color: #FFF8DC;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s ease;
+  font-size: 0.9rem; /* Smaller font size for a compact look */
+}
+
+.product:hover {
+  transform: translateY(-5px);
+}
+
+.product h3 {
+  color: #333;
+  font-size: 1.2rem; /* Slightly smaller */
+  margin-bottom: 8px;
+}
+
+.product p {
+  color: #666;
+  font-size: 1rem;
+  margin-bottom: 8px;
+}
+
+.product img {
+  width: 100%;
+  height: auto;
+  max-height: 150px; /* Smaller max-height */
+  object-fit: cover;
+  border-radius: 5px;
+  margin-bottom: 8px;
+}
+
+.product button {
+  background-color: #FF6B6B;
+  color: white;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-size: 0.9rem;
+}
+
+.product button:hover {
+  background-color: #FF4757;
+}
+
+/* User Activity Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}

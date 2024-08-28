@@ -1,0 +1,39 @@
+/* src/styles/fun-facts.css */
+main {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+#factButton {
+  background-color: #A89984;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1.2em;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-bottom: 20px;
+}
+
+#factButton:hover {
+  background-color: #CDAA7D;
+}
+
+#factDisplay {
+  color: #666;
+  font-size: 1.2em;
+  font-weight: bold;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  border: 2px solid #A89984;
+  border-radius: 10px;
+}

@@ -1,0 +1,26 @@
+.about-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.featured-flavor-container {
+  text-align: center;
+}
+
+.featured-flavor-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin: 10px;
+  border-radius: 10px;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.fade-out {
+  opacity: 0;
+}
+
+.fade-in {
+  opacity: 1;
+}
