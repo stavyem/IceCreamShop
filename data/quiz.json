@@ -1,0 +1,43 @@
+[
+    {
+      "question": "Which country consumes the most ice cream per capita?",
+      "answers": ["United States", "New Zealand", "Canada", "Australia"],
+      "correctAnswer": "New Zealand"
+    },
+    {
+      "question": "What is the most popular ice cream flavor in the world?",
+      "answers": ["Chocolate", "Vanilla", "Strawberry", "Mint Chocolate Chip"],
+      "correctAnswer": "Vanilla"
+    },
+    {
+      "question": "In what year was the ice cream cone invented?",
+      "answers": ["1904", "1923", "1890", "1912"],
+      "correctAnswer": "1904"
+    },
+    {
+      "question": "What fruit flavor was the first ice cream in America?",
+      "answers": ["Strawberry", "Peach", "Orange", "Lemon"],
+      "correctAnswer": "Peach"
+    },
+    {
+      "question": "Which U.S. city is known as the 'Ice Cream Capital of the World'?",
+      "answers": ["New York City", "Los Angeles", "Le Mars", "Chicago"],
+      "correctAnswer": "Le Mars"
+    },
+    {
+      "question": "Which country is credited with inventing the first ice cream?",
+      "answers": ["Italy", "France", "China", "Turkey"],
+      "correctAnswer": "China"
+    },
+    {
+      "question": "Which ice cream brand was the first to introduce chocolate chip cookie dough flavor?",
+      "answers": ["Ben & Jerry's", "Häagen-Dazs", "Breyers", "Blue Bell"],
+      "correctAnswer": "Ben & Jerry's"
+    },
+    {
+      "question": "Which month is celebrated as National Ice Cream Month in the United States?",
+      "answers": ["June", "July", "August", "September"],
+      "correctAnswer": "July"
+    }
+  ]
+  

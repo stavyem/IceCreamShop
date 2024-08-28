@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Vanilla",
+    "description": "Classic and delicious!",
+    "price": "7$",
+    "imageUrl": "https://www.davidlebovitz.com/wp-content/uploads/2009/02/Vanilla-ice-cream-recipe-cherry-compote-4.jpg",
+    "id": "97c3a185-0163-49ed-a9be-58c28fba7228"
+  },
+  {
+    "title": "Chocolate",
+    "description": "\"Did you say... Chocolate?\" -Tom",
+    "price": "7$",
+    "imageUrl": "https://www.theredheadbaker.com/wp-content/uploads/2020/10/chocolate-ice-cream-featured-1-540x720.jpg",
+    "id": "077a0820-0deb-4f3a-a7f3-30ffde9ab83f"
+  },
+  {
+    "title": "Strawberry",
+    "description": "Is there more refreshing?",
+    "price": "7$",
+    "imageUrl": "https://www.theendlessmeal.com/wp-content/uploads/2016/07/strawberry-ice-cream-2.jpg",
+    "id": "2492e3fe-47bd-483b-9378-20305b08ba05"
+  },
+  {
+    "title": "Lemon",
+    "description": "It's sour hour! ",
+    "price": "8$",
+    "imageUrl": "https://www.yourhomebasedmom.com/wp-content/uploads/2013/07/lemon-ice-cream-4.jpg",
+    "id": "dc0f166c-09b5-4f89-9894-0602043318a5"
+  },
+  {
+    "title": "Mango",
+    "description": "Tropical vibes",
+    "price": "8$",
+    "imageUrl": "https://www.pineappleandcoconut.com/wp-content/uploads/2021/06/Mango-Ice-Cream-9.jpg",
+    "id": "5c0f3da2-4876-4314-b7cf-c142cd2e8803"
+  },
+  {
+    "title": "Raspberry",
+    "description": "Always surprising!",
+    "price": "8$",
+    "imageUrl": "https://i1.wp.com/lmld.org/wp-content/uploads/2012/07/Raspberry-Ice-Cream-10.jpg",
+    "id": "71f6005f-88bf-4baa-9b4c-043d96ff9cbc"
+  },
+  {
+    "title": "Melon",
+    "description": "One of Frosty's favorites!",
+    "price": "8$",
+    "imageUrl": "https://icecreamfromscratch.com/wp-content/uploads/2021/09/Melon-Ice-Cream-1.2.jpg",
+    "id": "c94897a3-bd0d-4583-8649-b01e21ab98f2"
+  },
+  {
+    "title": "Banana",
+    "description": "Let's try something special!",
+    "price": "8$",
+    "imageUrl": "https://www.acouplecooks.com/wp-content/uploads/2023/07/Banana-Ice-Cream-003.jpg",
+    "id": "40f94955-3e65-43fc-86ff-962ef5c5e2ef"
+  },
+  {
+    "title": "Coconut",
+    "description": "Let's go (coco)nuts!",
+    "price": "8$",
+    "imageUrl": "https://domesticgothess.com/wp-content/uploads/2022/07/simple-coconut-ice-cream.jpg",
+    "id": "4b137ea3-fe0d-4ac0-bf52-483e7b16eabe"
+  },
+  {
+    "title": "Kinder Bueno",
+    "description": "Muy Bueno indeed ;)",
+    "price": "9$",
+    "imageUrl": "https://www.janespatisserie.com/wp-content/uploads/2021/08/KinderBuenoIceCream12-2.jpg",
+    "id": "7d0bab33-589d-4a4e-98a1-48f79f865042"
+  },
+  {
+    "title": "Hazelnut",
+    "description": "Mom's favorite :)",
+    "price": "9$",
+    "imageUrl": "https://curlygirlkitchen.com/wp-content/uploads/2022/09/Chocolate-Hazelnut-Ice-Cream-No-Churn-Nutella-Ferrera-Rocher-018.jpg",
+    "id": "46ca85ce-b15c-4472-8dc7-7b5a876b1c86"
+  },
+  {
+    "title": "Pistachio",
+    "description": "Always a pleasure",
+    "price": "9$",
+    "imageUrl": "https://feastingonfruit.com/wp-content/uploads/2017/08/No-Churn-Vegan-Pistachio-Ice-Cream-3-e1502503524224.jpg",
+    "id": "c8211bab-215c-4459-b45a-4c6dd6f5d177"
+  },
+  {
+    "title": "Mint & Chocolate chips",
+    "description": "Hmmm... now you're talking!",
+    "price": "9$",
+    "imageUrl": "https://www.purelykaylie.com/wp-content/uploads/2023/07/vegan-mint-chocolate-chip-ice-cream-14.jpg",
+    "id": "06c96bf5-048c-423f-bde6-4d880c1786a3"
+  },
+  {
+    "title": "Caramel",
+    "description": "Sweet and Salty!",
+    "price": "9$",
+    "imageUrl": "https://cravingsjournal.com/wp-content/uploads/2021/02/salted-caramel-ice-cream-with-blondies-3.jpg",
+    "id": "29afa55e-df41-4702-ab50-8f9a240dfeff"
+  },
+  {
+    "title": "Peanut butter",
+    "description": "A sweet treat!",
+    "price": "9$",
+    "imageUrl": "https://detoxinista.com/wp-content/uploads/2021/08/Peanut-butter-ice-cream.jpg",
+    "id": "a212b2e4-ab92-4c61-b78b-c46968008ea2"
+  },
+  {
+    "title": "Marshmallow",
+    "description": "Marshed-mallow. Hmm.",
+    "price": "10$",
+    "imageUrl": "https://lolohomekitchen.com/wp-content/uploads/2022/07/Marshmallow-Ice-Cream-2-scaled.jpg",
+    "id": "f1ec4ac0-2772-4ff3-866f-4d6acd90fd89"
+  },
+  {
+    "title": "Cookie dough",
+    "description": "Guilty pleasures always work!",
+    "price": "10$",
+    "imageUrl": "https://www.theendlessmeal.com/wp-content/uploads/2021/08/Chocolate-Chip-Cookie-Dough-Ice-Cream-3.jpg",
+    "id": "92bbbaef-1277-434b-8a0e-c6376a1aaa2a"
+  },
+  {
+    "title": "Tomato",
+    "description": "Wait what?!",
+    "price": "10$",
+    "imageUrl": "https://i.pinimg.com/736x/6a/19/ee/6a19eed12d80b7456fd4c79a9b1ae311.jpg",
+    "id": "c983d4f1-bb39-4c75-a61a-a41edc495e24"
+  },
+  {
+    "title": "Licorice",
+    "description": "Not for the faint-hearted...",
+    "price": "10$",
+    "imageUrl": "https://loveatfirstscoop.com/wp-content/uploads/2023/06/black-licorice.png",
+    "id": "3bbb2180-9a24-4934-aae8-dd059ef39335"
+  },
+  {
+    "title": "Ube Pandesal",
+    "description": "Filipino bread and purple yam!",
+    "price": "10$",
+    "imageUrl": "https://sugaryums.com/wp-content/uploads/2023/05/Ube-Ice-Cream-Recipe-SugarYums-5-2.jpg",
+    "id": "49fea6c2-49b3-4bb1-b27c-99f192c8a8ea"
+  }
+]
