@@ -161,12 +161,14 @@ const Admin = () => {
           required
         ></textarea>
         <input
-          type="text"
+          type="number"
           name="price"
           placeholder="Price"
           value={newProduct.price}
           onChange={handleProductChange}
           required
+          min="0.01"
+          step="0.01"
         />
         <input
           type="text"
