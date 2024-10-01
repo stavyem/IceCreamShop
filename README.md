@@ -7,9 +7,10 @@ This is a Node.js and React project for an ice cream shop.
 ### Installation
 
 1. Clone the repository:
+
 `git clone https://github.com/stavyem/IceCreamShop.git`
 
-2. Install dependencies in the root directory:
+3. Install dependencies in the root directory:
 
 `cd IceCreamShop`
 
